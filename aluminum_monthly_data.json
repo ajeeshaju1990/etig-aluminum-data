@@ -1,0 +1,58 @@
+[
+  {
+    "Month": "June 2025",
+    "Average Price": 195.88,
+    "Min Price": 195.0,
+    "Max Price": 196.0,
+    "Days Recorded": 13,
+    "Month Num": 6,
+    "Year": 2025,
+    "Is Current": true,
+    "First Date": "16-06-2025",
+    "Last Date": "02-06-2025",
+    "Last Updated": "2025-06-17 18:58:15",
+    "Trend": "Very Stable"
+  },
+  {
+    "Month": "May 2025",
+    "Average Price": 195.48,
+    "Min Price": 194.0,
+    "Max Price": 196.0,
+    "Days Recorded": 27,
+    "Month Num": 5,
+    "Year": 2025,
+    "Is Current": false,
+    "First Date": "31-05-2025",
+    "Last Date": "01-05-2025",
+    "Last Updated": "2025-06-17 18:58:51",
+    "Trend": "Stable"
+  },
+  {
+    "Month": "April 2025",
+    "Average Price": 186.29,
+    "Min Price": 180.0,
+    "Max Price": 194.0,
+    "Days Recorded": 26,
+    "Month Num": 4,
+    "Year": 2025,
+    "Is Current": false,
+    "First Date": "30-04-2025",
+    "Last Date": "01-04-2025",
+    "Last Updated": "2025-06-17 18:59:26",
+    "Trend": "High Variation"
+  },
+  {
+    "Month": "March 2025",
+    "Average Price": 186.5,
+    "Min Price": 181.0,
+    "Max Price": 188.0,
+    "Days Recorded": 24,
+    "Month Num": 3,
+    "Year": 2025,
+    "Is Current": false,
+    "First Date": "31-03-2025",
+    "Last Date": "03-03-2025",
+    "Last Updated": "2025-06-17 19:00:03",
+    "Trend": "High Variation"
+  }
+]
