@@ -1,5 +1,45 @@
 [
   {
+    "Trading Date": "24-06-2025",
+    "Item": "ALUMINIUM",
+    "Variety(Wt.)": "Accessories Scrap1 Kg",
+    "Centre": "DELHI",
+    "Price Range From": 197.0,
+    "Price Range To": 197.0,
+    "Average Price": 197.0,
+    "Last Updated": "2025-06-25 17:35:04"
+  },
+  {
+    "Trading Date": "23-06-2025",
+    "Item": "ALUMINIUM",
+    "Variety(Wt.)": "Accessories Scrap1 Kg",
+    "Centre": "DELHI",
+    "Price Range From": 197.0,
+    "Price Range To": 197.0,
+    "Average Price": 197.0,
+    "Last Updated": "2025-06-25 17:35:03"
+  },
+  {
+    "Trading Date": "21-06-2025",
+    "Item": "ALUMINIUM",
+    "Variety(Wt.)": "Accessories Scrap1 Kg",
+    "Centre": "DELHI",
+    "Price Range From": 196.0,
+    "Price Range To": 196.0,
+    "Average Price": 196.0,
+    "Last Updated": "2025-06-25 17:35:03"
+  },
+  {
+    "Trading Date": "20-06-2025",
+    "Item": "ALUMINIUM",
+    "Variety(Wt.)": "Accessories Scrap1 Kg",
+    "Centre": "DELHI",
+    "Price Range From": 196.0,
+    "Price Range To": 196.0,
+    "Average Price": 196.0,
+    "Last Updated": "2025-06-25 17:35:03"
+  },
+  {
     "Trading Date": "19-06-2025",
     "Item": "ALUMINIUM",
     "Variety(Wt.)": "Accessories Scrap1 Kg",
@@ -7,36 +47,6 @@
     "Price Range From": 196.0,
     "Price Range To": 196.0,
     "Average Price": 196.0,
-    "Last Updated": "2025-06-20 11:41:18"
-  },
-  {
-    "Trading Date": "18-06-2025",
-    "Item": "ALUMINIUM",
-    "Variety(Wt.)": "Accessories Scrap1 Kg",
-    "Centre": "DELHI",
-    "Price Range From": 196.0,
-    "Price Range To": 196.0,
-    "Average Price": 196.0,
-    "Last Updated": "2025-06-20 11:41:18"
-  },
-  {
-    "Trading Date": "17-06-2025",
-    "Item": "ALUMINIUM",
-    "Variety(Wt.)": "Accessories Scrap1 Kg",
-    "Centre": "DELHI",
-    "Price Range From": 196.0,
-    "Price Range To": 196.0,
-    "Average Price": 196.0,
-    "Last Updated": "2025-06-20 11:41:18"
-  },
-  {
-    "Trading Date": "16-06-2025",
-    "Item": "ALUMINIUM",
-    "Variety(Wt.)": "Accessories Scrap1 Kg",
-    "Centre": "DELHI",
-    "Price Range From": 196.0,
-    "Price Range To": 196.0,
-    "Average Price": 196.0,
-    "Last Updated": "2025-06-20 11:41:18"
+    "Last Updated": "2025-06-25 17:35:03"
   }
 ]
