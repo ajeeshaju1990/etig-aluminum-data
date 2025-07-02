@@ -1,5 +1,15 @@
 [
   {
+    "Trading Date": "01-07-2025",
+    "Item": "ALUMINIUM",
+    "Variety(Wt.)": "Accessories Scrap1 Kg",
+    "Centre": "DELHI",
+    "Price Range From": 197.0,
+    "Price Range To": 197.0,
+    "Average Price": 197.0,
+    "Last Updated": "2025-07-02 11:41:26"
+  },
+  {
     "Trading Date": "30-06-2025",
     "Item": "ALUMINIUM",
     "Variety(Wt.)": "Accessories Scrap1 Kg",
@@ -7,7 +17,7 @@
     "Price Range From": 197.0,
     "Price Range To": 197.0,
     "Average Price": 197.0,
-    "Last Updated": "2025-07-01 10:36:01"
+    "Last Updated": "2025-07-02 11:41:26"
   },
   {
     "Trading Date": "28-06-2025",
@@ -17,7 +27,7 @@
     "Price Range From": 197.0,
     "Price Range To": 197.0,
     "Average Price": 197.0,
-    "Last Updated": "2025-07-01 10:36:00"
+    "Last Updated": "2025-07-02 11:41:26"
   },
   {
     "Trading Date": "27-06-2025",
@@ -27,7 +37,7 @@
     "Price Range From": 197.0,
     "Price Range To": 197.0,
     "Average Price": 197.0,
-    "Last Updated": "2025-07-01 10:36:00"
+    "Last Updated": "2025-07-02 11:41:26"
   },
   {
     "Trading Date": "26-06-2025",
@@ -37,16 +47,6 @@
     "Price Range From": 197.0,
     "Price Range To": 197.0,
     "Average Price": 197.0,
-    "Last Updated": "2025-07-01 10:36:00"
-  },
-  {
-    "Trading Date": "25-06-2025",
-    "Item": "ALUMINIUM",
-    "Variety(Wt.)": "Accessories Scrap1 Kg",
-    "Centre": "DELHI",
-    "Price Range From": 197.0,
-    "Price Range To": 197.0,
-    "Average Price": 197.0,
-    "Last Updated": "2025-07-01 10:36:00"
+    "Last Updated": "2025-07-02 11:41:26"
   }
 ]
